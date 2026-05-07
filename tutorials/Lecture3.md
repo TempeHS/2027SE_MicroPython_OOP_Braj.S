@@ -1,5 +1,7 @@
 # Lecture 3
 
+https://github.com/user-attachments/assets/2c915031-c24c-4ba0-99ea-5f7de4ac1120
+
 ## Lecture 3 Concepts
 - [Abstraction](#abstraction)
   - [Benefits of Abstraction](#benefits-of-abstraction)
@@ -47,6 +49,8 @@ while True:
 ```
 
 ## Implement a Non-Blocking Flash Method
+
+The 'Non Blocking' approach is preferred for timing regular events in microcontroller programming because it avoids blocking the code with sleep statements, allowing the controller to multitask.
 
 > [!Important]
 > Make sure you edit the  in the `project\lib\led_light.py`, not your main.py implementation.
